@@ -1,4 +1,5 @@
 # An Optimized Round Robin Scheduling Algorithm
+<div align = "justify">
 
 This repository contains the source code for An Optimized Round Robin Scheduling
 Algorithm, which aims to improve the efficiency of the CPU by optimizing the traditional Round Robin Scheduling Algorithm.
@@ -10,7 +11,9 @@ The operating system performs a wide range of tasks, including managing processe
 The objectives of our research can be summarized as:
 
 1.To optimize Round Robin Scheduling Algorithm for the efficiency of CPU.
+
 2.To optimize average waiting time from traditional Round Robin Scheduling.
+
 3.To optimize average turnaround time from traditional Round Robin Scheduling.
 
 ## Implementation
@@ -25,3 +28,4 @@ Contributions are always welcome. If you want to contribute to this project, you
 
 ### Contact
 If you have any questions or suggestions, feel free to contact us.
+</div>
